@@ -1,7 +1,6 @@
 # musicplayer_flutter
 
-A new Flutter project.
-
+Music player is one of the open source flutter project inside this app u can play pause local file music and ui is very cool
 ## Getting Started
 
 This project is a starting point for a Flutter application.
